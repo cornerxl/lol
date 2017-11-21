@@ -1,0 +1,12 @@
+.hero {
+    width: 96%;
+    margin: 0 3%;
+}
+
+.hero .heroType {
+    width: 80px;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}

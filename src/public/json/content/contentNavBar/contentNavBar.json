@@ -1,0 +1,20 @@
+{
+  "navBar": [
+    {
+      "name": "英雄",
+      "path": "/index/hero",
+      "active": false,
+      "class": "home"
+    },{
+      "name": "物品",
+      "path": "/index/goods",
+      "active": false,
+      "class": "goods"
+    },{
+      "name": "召唤师",
+      "path": "/index/summoner",
+      "active": false,
+      "class": "summoner"
+    }
+  ]
+}

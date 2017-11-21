@@ -1,0 +1,16 @@
+.content .navBar {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+
+.content .navBar a {
+    display: block;
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}
+
+.content .navBar .active {
+    color: #D4A93E;
+}

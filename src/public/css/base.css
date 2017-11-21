@@ -1,0 +1,41 @@
+* {
+    margin:0;
+    padding:0;
+}
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid #F0F0F0;
+
+}
+
+.content {
+    width: 100%;
+    position: fixed;
+    top: 41px;
+}
+
+.content .navBar {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+}
+
+.content .navBar a {
+    display: block;
+    float: left;
+    width: 33.3%;
+    text-align: center;
+}
+
+.content .navBar a span {
+    display: inline-block;
+    width: 50%;
+}
+
+.content .navBar .active {
+    color: #D4A93E;
+    border-bottom: 3px solid #D4A93E;
+}
